@@ -1,4 +1,5 @@
 alacritty
+xournalpp
 appimagelauncher
 bat
 chromium
@@ -42,7 +43,7 @@ qalculate-gtk
 qbittorrent
 qtile
 rofi
-shotwell
+viewnior instead of shotwell
 spicetify-cli
 spicetify-themes-git
 spotify
@@ -59,5 +60,5 @@ ttf-ms-fonts
 unimatrix-git
 usbutils
 xclip
-yay
+paru-bin
 zsh
